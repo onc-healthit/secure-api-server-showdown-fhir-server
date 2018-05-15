@@ -71,4 +71,4 @@ Asymmetrik Healthcare: [*healthcare.asymmetrik.com*](https://www.asymmetrik.com/
 
 Asymmetrik Blog & Podcast: [*asymmetrik.com/blog*](http://www.asymmetrik.com/blog)
 
-ONC: [*www.healthit.gov/topic/about-onc*
+ONC: [*www.healthit.gov/topic/about-onc*]
