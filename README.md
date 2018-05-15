@@ -37,7 +37,7 @@ Asymmetrik's solution to the [*Secure API Server Showdown Challenge*](https://ww
 
 1.  Node FHIR Server Core: [*@asymmetrik/node-fhir-server-core*](https://github.com/Asymmetrik/node-fhir-server-core)
 
-2.  Node FHIR@ Server Reference Implementation (MongoDB): [*@asymmetrik/node-fhir-server-mongo*](https://github.com/Asymmetrik/node-fhir-server-mongo)
+2.  Node FHIR Server Reference Implementation (MongoDB): [*@asymmetrik/node-fhir-server-mongo*](https://github.com/Asymmetrik/node-fhir-server-mongo)
 
 Connecting the FHIR Server Core to an existing data source is designed to be simple and secure, using pluggable configuration and profile extensions.
 
@@ -58,7 +58,7 @@ Please see [*CONTRIBUTING.md*](https://github.com/Asymmetrik/node-fhir-server-co
 
 **About Asymmetrik**
 
-[*Asymmetrik Ltd*](https://www.asymmetrik.com). is a Maryland-based company specializing in software development and data analytics. For over a decade, weâ€™ve helped government and healthcare organizations cut through bureaucracy and increase efficiency. Using vetted open-source components to build tailored enterprise solutions, Asymmetrik bypasses the high cost and extended time of custom development. Our team development approach is precise and efficient, attacking complex challenges with an arsenal of technical expertise and deep-dive analytics.
+[*Asymmetrik Ltd*](https://www.asymmetrik.com). is a Maryland-based company specializing in software development and data analytics. For over a decade, we've helped government and healthcare organizations cut through bureaucracy and increase efficiency. Using vetted open-source components to build tailored enterprise solutions, Asymmetrik bypasses the high cost and extended time of custom development. Our team development approach is precise and efficient, attacking complex challenges with an arsenal of technical expertise and deep-dive analytics.
 
 
 **References**
